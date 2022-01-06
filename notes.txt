@@ -1,0 +1,6 @@
+Python is a powerful multiparadigm computer programming language,
+optimized for programmer productivity, code readability, and software
+quality. producing x3 to x5 less code than C++
+
+with every python file there are default modules included
+that are invisible. making functions such as print() possible.
